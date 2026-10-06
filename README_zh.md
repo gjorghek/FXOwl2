@@ -45,7 +45,7 @@
 <!-- omit in toc -->
 ### 你在这里会发现什么？
 
-- [108 个](#库和包)用于研究和实际交易的[库和包](#库和包)，已失效和停止维护的项目都作了标注
+- [101 个](#库和包)用于研究和实际交易的[库和包](#库和包)，已失效和停止维护的项目都作了标注
 - 来自已发表论文的[策略](#策略)，附上每一个被编码运行后实测的夏普比率
 - [55本](#书籍)适合初学者和专业人士的[书籍](#书籍)
 - [22个视频](#视频)和采访
@@ -122,7 +122,7 @@
 
 # 库和包
 
-*108个实现交易机器人、回溯测试器、指标、定价器等的库和包列表。每个库都按其编程语言分类，并按人口降序排列（星星的数量）。*
+*101个实现交易机器人、回溯测试器、指标、定价器等的库和包列表。每个库都按其编程语言分类，并按人口降序排列（星星的数量）。*
 
 
 ## 回溯测试和真实交易
@@ -149,7 +149,6 @@
 | [sdoosa-algo-trade-python](https://github.com/sreenivasdoosa/sdoosa-algo-trade-python) | 这个项目主要是为那些有兴趣学习使用python解释器编写自己的交易算法的algo交易新手准备的。 | ![GitHub stars](https://badgen.net/github/stars/sreenivasdoosa/sdoosa-algo-trade-python) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [lumibot](https://github.com/Lumiwealth/lumibot) | 一个非常简单而有用的回溯测试和基于样本的实时交易框架（运行速度有点慢......）。 | ![GitHub stars](https://badgen.net/github/stars/Lumiwealth/lumibot) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [quanttrader](https://github.com/letianzj/quanttrader) | 在Python中进行回测和实时交易。基于事件。类似于backtesting.py。 | ![GitHub stars](https://badgen.net/github/stars/letianzj/quanttrader) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
-| [gobacktest](https://github.com/gobacktest/gobacktest) | 事件驱动的回溯测试框架的Go实现 | ![GitHub stars](https://badgen.net/github/stars/gobacktest/gobacktest) | ![made-with-go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg) |
 | [PineForge](https://github.com/pineforge-4pass/pineforge-engine) | 将 PineScript v6 策略转译为 C++，并使用用户提供的 OHLCV 数据运行确定性的离线回测。 | ![GitHub stars](https://badgen.net/github/stars/pineforge-4pass/pineforge-engine) | ![made-with-c++](https://img.shields.io/badge/Made%20with-c++-1f425f.svg) |
 | [FlashFunk](https://github.com/HFQR/FlashFunk) | Rust中的高性能运行时 | ![GitHub stars](https://badgen.net/github/stars/HFQR/FlashFunk) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
 
@@ -172,9 +171,7 @@
 | [Freqtrade](https://github.com/freqtrade/freqtrade) | Freqtrade是一个用Python编写的免费和开源的加密货币交易机器人。它被设计为支持所有主要交易所，并通过Telegram进行控制。它包含回测、绘图和资金管理工具，以及通过机器学习进行策略优化。 | ![GitHub stars](https://badgen.net/github/stars/freqtrade/freqtrade) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [Jesse](https://github.com/jesse-ai/jesse) | Jesse是一个先进的加密货币交易框架，旨在简化研究和定义交易策略。 | ![GitHub stars](https://badgen.net/github/stars/jesse-ai/jesse) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [OctoBot](https://github.com/Drakkar-Software/OctoBot) | 用于TA、套利和社会交易的加密货币交易机器人，具有先进的网络界面 | ![GitHub stars](https://badgen.net/github/stars/Drakkar-Software/OctoBot) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
-| [Kelp](https://github.com/stellar/kelp) | Kelp是一个免费和开源的交易机器人，适用于Stellar DEX和100多个集中式交易所 | ![GitHub stars](https://badgen.net/github/stars/stellar/kelp) | ![made-with-go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg) |
 | [openlimits](https://github.com/nash-io/openlimits) | 一个Rust高性能的加密货币交易API，支持多个交易所和语言封装器。 | ![GitHub stars](https://badgen.net/github/stars/nash-io/openlimits) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
-| [bTrader](https://github.com/gabriel-milan/btrader) | Binance的三角套利交易机器人 | ![GitHub stars](https://badgen.net/github/stars/gabriel-milan/btrader) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
 | [crypto-crawler-rs](https://github.com/crypto-crawler/crypto-crawler-rs) | 抓取加密货币交易所的订单簿和交易信息 | ![GitHub stars](https://badgen.net/github/stars/crypto-crawler/crypto-crawler-rs) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
 | [Hummingbot](https://github.com/CoinAlpha/hummingbot) | 一个用于加密货币做市的客户 | ![GitHub stars](https://badgen.net/github/stars/CoinAlpha/hummingbot) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [cryptotrader-core](https://github.com/monomadic/cryptotrader-core) | 简单的使用Rust中的加密货币交易所REST API客户端。 | ![GitHub stars](https://badgen.net/github/stars/monomadic/cryptotrader-core) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
@@ -185,7 +182,6 @@
 
 | 存储库 | 描述 | 明星 | 使用方法 |
 |------------|-------------|-------|-----------|
-| [Blackbird](https://github.com/butor/blackbird) | 黑鸟比特币套利：市场中立的多/空策略 | ![GitHub stars](https://badgen.net/github/stars/butor/blackbird) | ![made-with-c++](https://img.shields.io/badge/Made%20with-c++-1f425f.svg) |
 | [bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) | 比特币套利 - 机会检测器 | ![GitHub stars](https://badgen.net/github/stars/maxme/bitcoin-arbitrage) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [ThetaGang](https://github.com/brndnmtthws/thetagang) | ThetaGang是一个用于收集资金的IBKR机器人 | ![GitHub stars](https://badgen.net/github/stars/brndnmtthws/thetagang) | ![made-with-typescript](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [czsc](https://github.com/waditu/czsc) | 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易 | ![GitHub stars](https://badgen.net/github/stars/waditu/czsc) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
@@ -206,8 +202,6 @@
 |------------|-------------|-------|-----------|
 | [ta-lib](https://github.com/mrjbq7/ta-lib) | 对金融市场数据进行技术分析 | ![GitHub stars](https://badgen.net/github/stars/mrjbq7/ta-lib) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [go-tart](https://github.com/iamjinlei/go-tart) | 用Go实现的[ta-lib]((https://github.com/mrjbq7/ta-lib)，支持增量更新 | ![GitHub stars](https://badgen.net/github/stars/iamjinlei/go-tart) | ![made-with-go](https://img.shields.io/badge/Made%20with-go-1f425f.svg) |
-| [pandas-ta](https://github.com/twopirllc/pandas-ta) | 潘达斯技术分析（Pandas TA）是一个易于使用的库，它利用潘达斯软件包的130多个指标和实用功能以及60多个TA Lib蜡烛图。 | ![GitHub stars](https://badgen.net/github/stars/twopirllc/pandas-ta) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
-| [finta](https://github.com/peerchemist/finta) | 在Pandas中实施的共同财务技术指标 | ![GitHub stars](https://badgen.net/github/stars/peerchemist/finta) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [ta-rust](https://github.com/greyblake/ta-rs) | Rust语言的技术分析库 | ![GitHub stars](https://badgen.net/github/stars/greyblake/ta-rs) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
 | [wickra](https://github.com/wickra-lib/wickra) | 以流式处理为先的技术分析库，Rust 内核，提供 Python/Node/WASM 原生绑定和 C ABI（C、C++、C#/.NET、Go、Java、R）；涵盖 24 个类别的 514 个每次 tick 为 O(1) 的指标，批处理与流式结果按位一致 | ![GitHub stars](https://badgen.net/github/stars/wickra-lib/wickra) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
 
@@ -252,7 +246,7 @@
 | 存储库 | 描述 | 明星 | 使用方法 |
 |------------|-------------|-------|-----------|
 | [ccxt](https://github.com/ccxt/ccxt) | 一个JavaScript / Python / PHP加密货币交易API，支持100多个比特币/altcoin交易所 | ![GitHub stars](https://badgen.net/github/stars/ccxt/ccxt) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
-| [Ib_insync](https://github.com/erdewit/ib_insync) | 用于交互式经纪人的Python同步/async框架。 | ![GitHub stars](https://badgen.net/github/stars/erdewit/ib_insync) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [ib_async](https://github.com/ib-api-reloaded/ib_async) | 用于交互式经纪人的Python同步/async框架，ib_insync的后续维护版本。 | ![GitHub stars](https://badgen.net/github/stars/ib-api-reloaded/ib_async) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [Coinnect](https://github.com/hugues31/coinnect) | Coinnect是一个Rust库，旨在通过REST API提供对主要加密货币交易所的完整访问。 | ![GitHub stars](https://badgen.net/github/stars/hugues31/coinnect) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
 
 
@@ -267,7 +261,7 @@
 | [yfinance](https://github.com/ranaroussi/yfinance) | yfinance提供了一个线程和Pythonic方式，从雅虎金融下载市场数据。 | ![GitHub stars](https://badgen.net/github/stars/ranaroussi/yfinance) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [AkShare](https://github.com/akfamily/akshare) | AKShare是一个优雅而简单的Python金融数据接口库，它是为人类而建的！它是为人类服务的。 | ![GitHub stars](https://badgen.net/github/stars/akfamily/akshare) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [pandas-datareader](https://github.com/pydata/pandas-datareader) | 为pandas提供最新的远程数据访问，适用于多个版本的pandas。 | ![GitHub stars](https://badgen.net/github/stars/pydata/pandas-datareader) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
-| [Quandl](https://github.com/quandl/quandl-python) | 通过一个免费的API，从数百个出版商那里获得数以百万计的金融和经济数据集。 | ![GitHub stars](https://badgen.net/github/stars/quandl/quandl-python) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [Nasdaq Data Link](https://github.com/Nasdaq/data-link-python) | Nasdaq Data Link（原Quandl）的Python客户端：通过一个API，从数百个出版商那里获得数以百万计的金融和经济数据集。 | ![GitHub stars](https://badgen.net/github/stars/Nasdaq/data-link-python) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [findatapy](https://github.com/cuemacro/findatapy) | findatapy创建了一个易于使用的Python API，使用统一的高级接口从许多来源下载市场数据，包括Quandl、彭博、雅虎、谷歌等。 | ![GitHub stars](https://badgen.net/github/stars/cuemacro/findatapy) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [Investpy](https://github.com/alvarobartt/investpy) | 用Python从Investing.com提取金融数据 | ![GitHub stars](https://badgen.net/github/stars/alvarobartt/investpy) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [Fundamental Analysis Data](https://github.com/JerBouma/FundamentalAnalysis) | 完整的基本面分析软件包能够收集20年的公司简介、财务报表、比率和20,000多家公司的股票数据。 | ![GitHub stars](https://badgen.net/github/stars/JerBouma/FundamentalAnalysis) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
@@ -305,7 +299,6 @@
 
 | 存储库 | 描述 | 明星 | 使用方法 |
 |------------|-------------|-------|-----------|
-| [Marketstore](https://github.com/alpacahq/marketstore) | 金融时序数据的DataFrame服务器 | ![GitHub stars](https://badgen.net/github/stars/alpacahq/marketstore) | ![made-with-go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg) |
 | [Tectonicdb](https://github.com/0b01/tectonicdb) | Tectonicdb是一个快速、高度压缩的独立数据库和流媒体协议，用于订单簿上的点子。 | ![GitHub stars](https://badgen.net/github/stars/0b01/tectonicdb) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
 | [ArcticDB (Man Group)](https://github.com/man-group/arcticdb) | 用于时间序列和tick数据的高性能数据存储 | ![GitHub stars](https://badgen.net/github/stars/man-group/ArcticDB) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 
