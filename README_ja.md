@@ -49,7 +49,7 @@ MCP 経由で戦略カタログにアクセスする権限が含まれます。
 
 ### ここで見つかるもの
 
-- リサーチとライブトレーディング向けの [103のライブラリ・パッケージ](#ライブラリとパッケージ)。停止済み・休止中のプロジェクトには印を付けています
+- リサーチとライブトレーディング向けの [104のライブラリ・パッケージ](#ライブラリとパッケージ)。停止済み・休止中のプロジェクトには印を付けています
 - 公開論文からの [戦略](#戦略)。コード化して実行したときに出たシャープレシオ付き
 - 初心者からプロ向けの [55冊の書籍](#書籍)
 - [22本の動画](#動画) とインタビュー
@@ -130,7 +130,7 @@ MCP 経由で戦略カタログにアクセスする権限が含まれます。
 
 # ライブラリとパッケージ
 
-_トレーディングボット、バックテスター、インジケーター、プライサーなどを実装した **103のライブラリ・パッケージ** のリストです。各ライブラリはプログラミング言語ごとに分類され、人気順（スター数の降順）に並んでいます。_
+_トレーディングボット、バックテスター、インジケーター、プライサーなどを実装した **104のライブラリ・パッケージ** のリストです。各ライブラリはプログラミング言語ごとに分類され、人気順（スター数の降順）に並んでいます。_
 
 ## バックテストとライブトレーディング
 
@@ -267,6 +267,7 @@ _金融メトリクスのライブラリ。_
 | [Fundamental Analysis Data](https://github.com/JerBouma/FundamentalAnalysis) | 2万社以上の企業プロフィール・財務諸表・財務比率・株価データを20年分収集できるファンダメンタル分析パッケージ。                  | ![GitHub stars](https://badgen.net/github/stars/JerBouma/FundamentalAnalysis)  | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [Wallstreet](https://github.com/mcdallas/wallstreet)                         | Wallstreet：リアルタイム株式・オプションツール。                                                                               | ![GitHub stars](https://badgen.net/github/stars/mcdallas/wallstreet)           | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [pwb-toolbox](https://github.com/paperswithbacktest/pwb-toolbox) | Hugging Face 上の Papers With Backtest データセット 32 件のローダー。株式・ETF・指数・通貨・コモディティの 1962 年からの日次価格、国債イールドカーブ、四半期財務諸表、FRED-MD マクロ系列、そして米国株の1 分足 57 億行。カードとスキーマは誰でも読めますが、ダウンロードには承認が必要です。 | ![GitHub stars](https://badgen.net/github/stars/paperswithbacktest/pwb-toolbox) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [Tapetide MCP](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) | インド株（NSE・BSE 上場の約 8,200 銘柄）向け MCP サーバー。株価、四半期決算、株主構成、326 指標のスクリーナー、FII/DII の資金フロー、オプションチェーン、適時開示を Claude、ChatGPT、Cursor などの MCP クライアントから取得できます。無料プランあり。 | ![GitHub stars](https://badgen.net/github/stars/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) | ![made-with-typescript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg) |
 
 ### 暗号通貨
 
