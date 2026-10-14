@@ -49,7 +49,7 @@ MCP 経由で戦略カタログにアクセスする権限が含まれます。
 
 ### ここで見つかるもの
 
-- リサーチとライブトレーディング向けの [103のライブラリ・パッケージ](#ライブラリとパッケージ)。停止済み・休止中のプロジェクトには印を付けています
+- リサーチとライブトレーディング向けの [104のライブラリ・パッケージ](#ライブラリとパッケージ)。停止済み・休止中のプロジェクトには印を付けています
 - 公開論文からの [戦略](#戦略)。コード化して実行したときに出たシャープレシオ付き
 - 初心者からプロ向けの [55冊の書籍](#書籍)
 - [22本の動画](#動画) とインタビュー
@@ -130,7 +130,7 @@ MCP 経由で戦略カタログにアクセスする権限が含まれます。
 
 # ライブラリとパッケージ
 
-_トレーディングボット、バックテスター、インジケーター、プライサーなどを実装した **103のライブラリ・パッケージ** のリストです。各ライブラリはプログラミング言語ごとに分類され、人気順（スター数の降順）に並んでいます。_
+_トレーディングボット、バックテスター、インジケーター、プライサーなどを実装した **104のライブラリ・パッケージ** のリストです。各ライブラリはプログラミング言語ごとに分類され、人気順（スター数の降順）に並んでいます。_
 
 ## バックテストとライブトレーディング
 
@@ -146,6 +146,7 @@ _トレーディングボット、バックテスター、インジケーター�
 | [Rqalpha](https://github.com/ricequant/rqalpha)                                        | 複数の有価証券に対応した拡張・置換可能なPythonアルゴリズムバックテスト＆トレーディングフレームワーク。                                                                                          | ![GitHub stars](https://badgen.net/github/stars/ricequant/rqalpha)                       | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [finmarketpy](https://github.com/cuemacro/finmarketpy)                                 | トレーディング戦略のバックテストと金融市場分析のためのPythonライブラリ（旧pythalesians）。                                                                                                      | ![GitHub stars](https://badgen.net/github/stars/cuemacro/finmarketpy)                    | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [backtesting.py](https://github.com/kernc/backtesting.py)                              | 過去データでトレーディング戦略の実行可能性を検証するPythonフレームワーク。軽量・高速・ユーザーフレンドリーで直感的・インタラクティブ。                                                          | ![GitHub stars](https://badgen.net/github/stars/kernc/backtesting.py)                    | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [OpenBacktesting](https://github.com/lucidcog/openbacktesting) | 単一資産の履歴データを用いた Python バックテストフレームワーク。取引明細、pandas 統計、テクニカル指標、グリッドまたは SAMBO によるパラメータ最適化に対応。 | ![GitHub stars](https://badgen.net/github/stars/lucidcog/openbacktesting) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [zvt](https://github.com/zvtvz/zvt)                                                    | モジュール型量子フレームワーク。                                                                                                                                                                | ![GitHub stars](https://badgen.net/github/stars/zvtvz/zvt)                               | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [WonderTrader](https://github.com/wondertrader/wondertrader)                           | WonderTrader——量子研究・開発・取引のオールインワンフレームワーク。                                                                                                                              | ![GitHub stars](https://badgen.net/github/stars/wondertrader/wondertrader)               | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)                   | 高性能アルゴリズムトレーディングプラットフォームとイベント駆動型バックテスター。                                                                                                                | ![GitHub stars](https://badgen.net/github/stars/nautechsystems/nautilus_trader)          | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
