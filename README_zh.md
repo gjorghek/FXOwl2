@@ -45,7 +45,7 @@
 <!-- omit in toc -->
 ### 你在这里会发现什么？
 
-- [108 个](#库和包)用于研究和实际交易的[库和包](#库和包)，已失效和停止维护的项目都作了标注
+- [109 个](#库和包)用于研究和实际交易的[库和包](#库和包)，已失效和停止维护的项目都作了标注
 - 来自已发表论文的[策略](#策略)，附上每一个被编码运行后实测的夏普比率
 - [55本](#书籍)适合初学者和专业人士的[书籍](#书籍)
 - [22个视频](#视频)和采访
@@ -122,7 +122,7 @@
 
 # 库和包
 
-*108个实现交易机器人、回溯测试器、指标、定价器等的库和包列表。每个库都按其编程语言分类，并按人口降序排列（星星的数量）。*
+*109个实现交易机器人、回溯测试器、指标、定价器等的库和包列表。每个库都按其编程语言分类，并按人口降序排列（星星的数量）。*
 
 
 ## 回溯测试和真实交易
@@ -140,6 +140,7 @@
 | [Rqalpha](https://github.com/ricequant/rqalpha) | 一个可扩展、可替换的Python算法回测和交易框架，支持多种证券 | ![GitHub stars](https://badgen.net/github/stars/ricequant/rqalpha) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [finmarketpy](https://github.com/cuemacro/finmarketpy) | 用于回测交易策略和分析金融市场的Python库（前身为pythalesians）。 | ![GitHub stars](https://badgen.net/github/stars/cuemacro/finmarketpy) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [backtesting.py](https://github.com/kernc/backtesting.py) | Backtesting.py是一个Python框架，用于根据历史（过去）数据推断交易策略的可行性。Backtesting.py在Backtrader的基础上进行了改进，并以各种方式超越了其他可获得的替代方案，Backtesting.py是轻量级的、快速的、用户友好的、直观的、互动的、智能的，并希望是面向未来的。 | ![GitHub stars](https://badgen.net/github/stars/kernc/backtesting.py) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [OpenBacktesting](https://github.com/lucidcog/openbacktesting) | Python 单资产历史回测框架，支持交易明细、pandas 统计、技术指标，以及网格或 SAMBO 参数优化。 | ![GitHub stars](https://badgen.net/github/stars/lucidcog/openbacktesting) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [zvt](https://github.com/zvtvz/zvt) | 模块化的量化框架 | ![GitHub stars](https://badgen.net/github/stars/zvtvz/zvt) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [WonderTrader](https://github.com/wondertrader/wondertrader) | WonderTrader——量化研发交易一站式框架  | ![GitHub stars](https://badgen.net/github/stars/wondertrader/wondertrader) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 一个高性能的算法交易平台和事件驱动的回测器 | ![GitHub stars](https://badgen.net/github/stars/nautechsystems/nautilus_trader) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
