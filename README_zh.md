@@ -45,7 +45,7 @@
 <!-- omit in toc -->
 ### 你在这里会发现什么？
 
-- [108 个](#库和包)用于研究和实际交易的[库和包](#库和包)，已失效和停止维护的项目都作了标注
+- [109 个](#库和包)用于研究和实际交易的[库和包](#库和包)，已失效和停止维护的项目都作了标注
 - 来自已发表论文的[策略](#策略)，附上每一个被编码运行后实测的夏普比率
 - [55本](#书籍)适合初学者和专业人士的[书籍](#书籍)
 - [22个视频](#视频)和采访
@@ -122,7 +122,7 @@
 
 # 库和包
 
-*108个实现交易机器人、回溯测试器、指标、定价器等的库和包列表。每个库都按其编程语言分类，并按人口降序排列（星星的数量）。*
+*109个实现交易机器人、回溯测试器、指标、定价器等的库和包列表。每个库都按其编程语言分类，并按人口降序排列（星星的数量）。*
 
 
 ## 回溯测试和真实交易
@@ -349,6 +349,7 @@
 | [D-Tale (Man Group)](https://github.com/man-group/dtale) | D-Tale是Flask后端和React前端的结合，为你带来查看和分析Pandas数据结构的简单方法。 | ![GitHub stars](https://badgen.net/github/stars/man-group/dtale) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [mplfinance](https://github.com/matplotlib/mplfinance) | 使用Matplotlib实现金融市场数据可视化 | ![GitHub stars](https://badgen.net/github/stars/matplotlib/mplfinance) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [btplotting](https://github.com/happydasch/btplotting) | btplotting为回测、优化结果和backtrader的实时数据提供绘图。 | ![GitHub stars](https://badgen.net/github/stars/happydasch/btplotting) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [Kandle](https://github.com/Kernel-Hunter/kandle) | 浏览器里的加密货币、股票和外汇图表工具：36 个指标、画线工具、自带脚本语言和策略回测、提醒和 K 线回放，并附带 MCP 服务器，让 AI 智能体读取图表并在图上标注 | ![GitHub stars](https://badgen.net/github/stars/Kernel-Hunter/kandle) | ![made-with-typescript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg) |
 
 
 # 策略
