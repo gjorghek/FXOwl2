@@ -45,7 +45,7 @@
 <!-- omit in toc -->
 ### 你在这里会发现什么？
 
-- [108 个](#库和包)用于研究和实际交易的[库和包](#库和包)，已失效和停止维护的项目都作了标注
+- [110 个](#库和包)用于研究和实际交易的[库和包](#库和包)，已失效和停止维护的项目都作了标注
 - 来自已发表论文的[策略](#策略)，附上每一个被编码运行后实测的夏普比率
 - [55本](#书籍)适合初学者和专业人士的[书籍](#书籍)
 - [22个视频](#视频)和采访
@@ -122,7 +122,7 @@
 
 # 库和包
 
-*108个实现交易机器人、回溯测试器、指标、定价器等的库和包列表。每个库都按其编程语言分类，并按人口降序排列（星星的数量）。*
+*110个实现交易机器人、回溯测试器、指标、定价器等的库和包列表。每个库都按其编程语言分类，并按人口降序排列（星星的数量）。*
 
 
 ## 回溯测试和真实交易
@@ -254,6 +254,8 @@
 | [ccxt](https://github.com/ccxt/ccxt) | 一个JavaScript / Python / PHP加密货币交易API，支持100多个比特币/altcoin交易所 | ![GitHub stars](https://badgen.net/github/stars/ccxt/ccxt) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [Ib_insync](https://github.com/erdewit/ib_insync) | 用于交互式经纪人的Python同步/async框架。 | ![GitHub stars](https://badgen.net/github/stars/erdewit/ib_insync) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [Coinnect](https://github.com/hugues31/coinnect) | Coinnect是一个Rust库，旨在通过REST API提供对主要加密货币交易所的完整访问。 | ![GitHub stars](https://badgen.net/github/stars/hugues31/coinnect) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
+| [FxSocket Python SDK](https://github.com/fxsocket-com/FxSocket-Python-SDK) | FxSocket 托管 MT4/MT5 API 的类型化 Python 客户端：关联账户、下单与改单，通过 REST 读取报价、品种规格和 OHLC 历史数据，并通过 WebSocket 订阅逐笔报价、K 线、持仓和成交，同步与异步接口一一对应。 | ![GitHub stars](https://badgen.net/github/stars/fxsocket-com/FxSocket-Python-SDK) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [FxSocket Node SDK](https://github.com/fxsocket-com/FxSocket-Node-SDK) | FxSocket 托管 MT4/MT5 API 的类型化 Node.js 与 TypeScript 客户端，同时提供 ESM 和 CommonJS 构建，支持多账户下单与平仓，并为 WebSocket 流事件提供可辨识联合类型。 | ![GitHub stars](https://badgen.net/github/stars/fxsocket-com/FxSocket-Node-SDK) | ![made-with-typescript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg) |
 
 
 ## 数据来源

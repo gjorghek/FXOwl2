@@ -49,7 +49,7 @@ or Cursor over MCP.
 <!-- omit in toc -->
 ### What will you find here?
 
-- [136 libraries and packages](#libraries-and-packages) for research and live trading, with dead and dormant projects flagged
+- [138 libraries and packages](#libraries-and-packages) for research and live trading, with dead and dormant projects flagged
 - [Strategies](#strategies) from published papers, with the Sharpe ratio each one produced when it was coded and run
 - [55 books](#books) for beginners and professionals
 - [22 videos](#videos) and interviews
@@ -131,7 +131,7 @@ Method and caveats are written up on [the wiki](https://paperswithbacktest.com/w
 
 # Libraries and packages
 
-*List of **136 libraries and packages** implementing trading bots, backtesters, indicators, pricers, etc. Each library is categorized by its programming language and ordered by descending populatrity (number of stars).*
+*List of **138 libraries and packages** implementing trading bots, backtesters, indicators, pricers, etc. Each library is categorized by its programming language and ordered by descending populatrity (number of stars).*
 
 
 ## Backtesting and Live Trading
@@ -275,6 +275,8 @@ Method and caveats are written up on [the wiki](https://paperswithbacktest.com/w
 | [pmxt](https://github.com/pmxt-dev/pmxt) | Unified prediction market trading API across Polymarket, Kalshi and other venues, in the spirit of ccxt | ![GitHub stars](https://badgen.net/github/stars/pmxt-dev/pmxt) | ![made-with-typescript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg) |
 | [Coinnect](https://github.com/hugues31/coinnect) `dormant since 2021-11` | Coinnect is a Rust library aiming to provide a complete access to main crypto currencies exchanges via REST API. | ![GitHub stars](https://badgen.net/github/stars/hugues31/coinnect) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
 | [PENDAX](https://github.com/CompendiumFi/PENDAX-SDK) `dormant since 2024-05` | Javascript SDK for Trading, Data, and Websockets for FTX, FTXUS, OKX, Bybit, & More. | ![GitHub stars](https://badgen.net/github/stars/CompendiumFi/PENDAX-SDK) | ![made-with-javascript](https://img.shields.io/badge/Made%20with-Javascript-1f425f.svg) |
+| [FxSocket Python SDK](https://github.com/fxsocket-com/FxSocket-Python-SDK) | Typed Python client for the FxSocket hosted MT4/MT5 API: link accounts, place and modify orders, read quotes, symbol specifications and OHLC history over REST, and stream ticks, bars, positions and trades over WebSocket, with mirrored sync and async interfaces. | ![GitHub stars](https://badgen.net/github/stars/fxsocket-com/FxSocket-Python-SDK) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [FxSocket Node SDK](https://github.com/fxsocket-com/FxSocket-Node-SDK) | Typed Node.js and TypeScript client for the FxSocket hosted MT4/MT5 API, shipped for both ESM and CommonJS, with multi-account order and close requests and a discriminated union over the WebSocket stream events. | ![GitHub stars](https://badgen.net/github/stars/fxsocket-com/FxSocket-Node-SDK) | ![made-with-typescript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg) |
 
 
 ## Data Sources

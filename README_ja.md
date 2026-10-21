@@ -49,7 +49,7 @@ MCP 経由で戦略カタログにアクセスする権限が含まれます。
 
 ### ここで見つかるもの
 
-- リサーチとライブトレーディング向けの [103のライブラリ・パッケージ](#ライブラリとパッケージ)。停止済み・休止中のプロジェクトには印を付けています
+- リサーチとライブトレーディング向けの [105のライブラリ・パッケージ](#ライブラリとパッケージ)。停止済み・休止中のプロジェクトには印を付けています
 - 公開論文からの [戦略](#戦略)。コード化して実行したときに出たシャープレシオ付き
 - 初心者からプロ向けの [55冊の書籍](#書籍)
 - [22本の動画](#動画) とインタビュー
@@ -130,7 +130,7 @@ MCP 経由で戦略カタログにアクセスする権限が含まれます。
 
 # ライブラリとパッケージ
 
-_トレーディングボット、バックテスター、インジケーター、プライサーなどを実装した **103のライブラリ・パッケージ** のリストです。各ライブラリはプログラミング言語ごとに分類され、人気順（スター数の降順）に並んでいます。_
+_トレーディングボット、バックテスター、インジケーター、プライサーなどを実装した **105のライブラリ・パッケージ** のリストです。各ライブラリはプログラミング言語ごとに分類され、人気順（スター数の降順）に並んでいます。_
 
 ## バックテストとライブトレーディング
 
@@ -249,6 +249,8 @@ _金融メトリクスのライブラリ。_
 | [Ib_insync](https://github.com/erdewit/ib_insync)    | Interactive Brokers向けのPython同期/非同期フレームワーク。                               | ![GitHub stars](https://badgen.net/github/stars/erdewit/ib_insync)       | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)         |
 | [Coinnect](https://github.com/hugues31/coinnect)     | REST APIで主要な暗号通貨取引所へのフルアクセスを提供することを目的としたRustライブラリ。 | ![GitHub stars](https://badgen.net/github/stars/hugues31/coinnect)       | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg)             |
 | [PENDAX](https://github.com/CompendiumFi/PENDAX-SDK) | FTX、FTXUS、OKX、Bybitなど向けの取引・データ・WebSocket JavaScript SDK。                 | ![GitHub stars](https://badgen.net/github/stars/CompendiumFi/PENDAX-SDK) | ![made-with-javascript](https://img.shields.io/badge/Made%20with-Javascript-1f425f.svg) |
+| [FxSocket Python SDK](https://github.com/fxsocket-com/FxSocket-Python-SDK) | FxSocketのホスト型MT4/MT5 API向けの型付きPythonクライアント。口座の接続、発注と注文変更、REST経由での気配値・銘柄仕様・OHLC履歴の取得、WebSocket経由でのティック・バー・ポジション・取引のストリーミングに対応し、同期と非同期のインターフェースが一対一で対応。 | ![GitHub stars](https://badgen.net/github/stars/fxsocket-com/FxSocket-Python-SDK) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [FxSocket Node SDK](https://github.com/fxsocket-com/FxSocket-Node-SDK) | FxSocketのホスト型MT4/MT5 API向けの型付きNode.js/TypeScriptクライアント。ESMとCommonJSの両方で提供され、複数口座への発注と決済、WebSocketストリームイベントの判別可能なユニオン型に対応。 | ![GitHub stars](https://badgen.net/github/stars/fxsocket-com/FxSocket-Node-SDK) | ![made-with-typescript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg) |
 
 ## データソース
 
