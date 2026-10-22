@@ -49,7 +49,7 @@ MCP 経由で戦略カタログにアクセスする権限が含まれます。
 
 ### ここで見つかるもの
 
-- リサーチとライブトレーディング向けの [103のライブラリ・パッケージ](#ライブラリとパッケージ)。停止済み・休止中のプロジェクトには印を付けています
+- リサーチとライブトレーディング向けの [104のライブラリ・パッケージ](#ライブラリとパッケージ)。停止済み・休止中のプロジェクトには印を付けています
 - 公開論文からの [戦略](#戦略)。コード化して実行したときに出たシャープレシオ付き
 - 初心者からプロ向けの [55冊の書籍](#書籍)
 - [22本の動画](#動画) とインタビュー
@@ -130,7 +130,7 @@ MCP 経由で戦略カタログにアクセスする権限が含まれます。
 
 # ライブラリとパッケージ
 
-_トレーディングボット、バックテスター、インジケーター、プライサーなどを実装した **103のライブラリ・パッケージ** のリストです。各ライブラリはプログラミング言語ごとに分類され、人気順（スター数の降順）に並んでいます。_
+_トレーディングボット、バックテスター、インジケーター、プライサーなどを実装した **104のライブラリ・パッケージ** のリストです。各ライブラリはプログラミング言語ごとに分類され、人気順（スター数の降順）に並んでいます。_
 
 ## バックテストとライブトレーディング
 
@@ -336,6 +336,7 @@ _金融メトリクスのライブラリ。_
 | [D-Tale (Man Group)](https://github.com/man-group/dtale) | FlaskバックエンドとReactフロントエンドの組み合わせでPandasデータ構造を簡単に表示・分析。 | ![GitHub stars](https://badgen.net/github/stars/man-group/dtale)       | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [mplfinance](https://github.com/matplotlib/mplfinance)   | Matplotlibを使った金融市場データの可視化。                                               | ![GitHub stars](https://badgen.net/github/stars/matplotlib/mplfinance) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [btplotting](https://github.com/happydasch/btplotting)   | backtraderのバックテスト・最適化結果・ライブデータのプロット提供。                       | ![GitHub stars](https://badgen.net/github/stars/happydasch/btplotting) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [Kandle](https://github.com/Kernel-Hunter/kandle) | 暗号資産・株式・FX向けのブラウザ型チャートアプリ。36種類のインジケーター、描画ツール、独自スクリプト言語によるストラテジーのバックテスト、アラート、バーリプレイを備え、AIエージェントがチャートを読み取り書き込みできるMCPサーバーも付属。 | ![GitHub stars](https://badgen.net/github/stars/Kernel-Hunter/kandle) | ![made-with-typescript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg) |
 
 # 戦略
 
